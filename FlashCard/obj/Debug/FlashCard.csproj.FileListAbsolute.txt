@@ -19,4 +19,3 @@ C:\Users\tuyen\Desktop\tuyenlm\C#\FlashCard\FlashCard\obj\Debug\FlashCard.csproj
 C:\Users\tuyen\Desktop\tuyenlm\C#\FlashCard\FlashCard\obj\Debug\FlashCard.csproj.CoreCompileInputs.cache
 C:\Users\tuyen\Desktop\tuyenlm\C#\FlashCard\FlashCard\obj\Debug\FlashCard.exe
 C:\Users\tuyen\Desktop\tuyenlm\C#\FlashCard\FlashCard\obj\Debug\FlashCard.pdb
-C:\Users\tuyen\Desktop\tuyenlm\C#\FlashCard\FlashCard\obj\Debug\FlashCard.csprojResolveAssemblyReference.cache
